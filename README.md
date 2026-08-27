@@ -44,7 +44,7 @@
 
 > ⚠️ Nhớ xem ở chế độ **Desktop** để hiển thị đầy đủ.
 
-🔗 https://www.mediafire.com/folder/80740gemun2gt/
+🔗 https://get-link.kho-game-viet-hoa.workers.dev/
 
 ---
 
