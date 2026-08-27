@@ -6,19 +6,19 @@
 
 ### 1. Eden
 
-[🔗 Eden Releases](https://git.eden-emu.dev/eden-emu/eden/releases)
+🔗 https://git.eden-emu.dev/eden-emu/eden/releases
 
 ### ⭐ Eden Nightly
 
-[Eden Nightly Releases](https://git.eden-emu.dev/eden-ci/nightly/releases)
+🔗 https://git.eden-emu.dev/eden-ci/nightly/releases
 
 ### 2. Citron-Neo
 
-[Citron-Neo Releases](https://github.com/citron-neo/emulator/releases)
+🔗 https://github.com/citron-neo/emulator/releases
 
 ### 3. Kenji-NX
 
-[Kenji-NX Releases](https://git.ryujinx.app/kenji-nx/android/-/releases)
+🔗 https://git.ryujinx.app/kenji-nx/android/-/releases
 
 ---
 
@@ -26,17 +26,17 @@
 
 ### Firmware
 
-[Darthsternie Switch Firmwares](https://darthsternie.net/switch-firmwares/)
+🔗 https://darthsternie.net/switch-firmwares/
 
 ### OR
 
-[NX Firmware Releases](https://github.com/THZoria/NX_Firmware/releases)
+🔗 https://github.com/THZoria/NX_Firmware/releases
 
 ---
 
 ## 🔑 Keys
 
-[PROD.KEYS Releases](https://github.com/DeaconBlood/PROD.KEYS/releases)
+🔗 https://github.com/DeaconBlood/PROD.KEYS/releases
 
 ---
 
@@ -44,19 +44,19 @@
 
 > ⚠️ Nhớ xem ở chế độ **Desktop** để hiển thị đầy đủ.
 
-[Tổng hợp Việt Hóa Game Switch](https://www.mediafire.com/folder/80740gemun2gt/)
+🔗 https://www.mediafire.com/folder/80740gemun2gt/
 
 ---
 
-## 🎨 Turnip / Adreno Driver
+## 🎨 Turnip của K11MCH1
 
-### Turnip của K11MCH1
+🔗 https://github.com/K11MCH1/AdrenoToolsDrivers/releases
 
-[K11MCH1 AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)
+---
 
-### Turnip Mr.Purple
+## 🎨 Turnip Mr.Purple
 
-[Mr.Purple Turnip Releases](https://github.com/MrPurple666/purple-turnip/releases)
+🔗 https://github.com/MrPurple666/purple-turnip/releases
 
 ---
 
@@ -66,11 +66,11 @@
 
 > ⚡ Nhanh nhất
 
-[ARMSX3 Releases](https://github.com/ARMSX2/ARMSX3/releases)
+🔗 https://github.com/ARMSX2/ARMSX3/releases
 
 ### RPCSX Clanker
 
-[RPCSX Clanker Releases](https://github.com/ouroboros420/rpcsx-ui-android/releases)
+🔗 https://github.com/ouroboros420/rpcsx-ui-android/releases
 
 ---
 
@@ -78,11 +78,11 @@
 
 ### X360Mobile
 
-[X360-Mobile Official Releases](https://github.com/Ashnar2602/X360-Mobile---OFFICIAL/releases)
+🔗 https://github.com/Ashnar2602/X360-Mobile---OFFICIAL/releases
 
 ### XenDroid
 
-[XenDroid Releases](https://github.com/rfandango/XenDroid/releases)
+🔗 https://github.com/rfandango/XenDroid/releases
 
 ---
 
@@ -90,7 +90,7 @@
 
 ### HakuX
 
-[HakuX Releases](https://github.com/rfandango/hakuX/releases)
+🔗 https://github.com/rfandango/hakuX/releases
 
 ---
 
@@ -98,7 +98,7 @@
 
 ### Cemu Android
 
-[Cemu Android Releases](https://github.com/SSimco/Cemu/releases)
+🔗 https://github.com/SSimco/Cemu/releases
 
 ---
 
@@ -106,21 +106,21 @@
 
 ### Bannerhub
 
-[Bannerhub Releases](https://github.com/The412Banner/bannerhub/releases)
+🔗 https://github.com/The412Banner/bannerhub/releases
 
 ---
 
 ### GameNative
 
-> 🎮 Hỗ trợ Steam / Epic / GOG / Amazon
+> 🎮 Steam / Epic / GOG / Amazon
 
-[GameNative Releases](https://github.com/utkarshdalal/GameNative/releases)
+🔗 https://github.com/utkarshdalal/GameNative/releases
 
 ---
 
 ### Winlator CMOD — Coffincolors
 
-[Winlator CMOD Releases](https://github.com/coffincolors/winlator/releases)
+🔗 https://github.com/coffincolors/winlator/releases
 
 ---
 
@@ -128,19 +128,19 @@
 
 > Có thể cài song song với CMOD.
 
-[Winlator Bionic Releases](https://github.com/StevenMXZ/Winlator-Ludashi/releases)
+🔗 https://github.com/StevenMXZ/Winlator-Ludashi/releases
 
 ---
 
 ### Winlator Official
 
-[Winlator Official Releases](https://github.com/brunodev85/winlator/releases)
+🔗 https://github.com/brunodev85/winlator/releases
 
 ---
 
 ### Winlator Mod — Frost
 
-[Winlator Frost Releases](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)
+🔗 https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases
 
 ---
 
@@ -148,11 +148,11 @@
 
 ### KIMCHI
 
-[AdrenoToolsDrivers Releases](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)
+🔗 https://github.com/K11MCH1/AdrenoToolsDrivers/releases
 
 ### Steven
 
-[Freedreno Turnip CI Releases](https://github.com/StevenMXZ/freedreno_turnip-CI/releases)
+🔗 https://github.com/StevenMXZ/freedreno_turnip-CI/releases
 
 ---
 
@@ -160,24 +160,24 @@
 
 | Hệ máy | Giả lập | Link |
 |---|---|---|
-| **PS Vita** | Vita3K Plus | [Tải Vita3K Plus](https://github.com/nckstwrt/Vita3K-Plus/releases) |
-| **PSP** | PPSSPP | [Google Play PPSSPP](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp) |
-| **PS2** | AetherSX2 | [Tải AetherSX2 v1.5-3668](https://www.mediafire.com/file/43816dsm3ozh4j0/13930-v1.5-3668.apk/file) |
-| **PS2** | NetherSX2 Classic | [NetherSX2 Classic](https://github.com/Trixarian/NetherSX2-classic/releases) |
-| **PS2** | NetherSX2 Patch | [NetherSX2 Patch](https://github.com/Trixarian/NetherSX2-patch/releases) |
-| **PS2** | NetherSX2 Turnip | [NetherSX2 Turnip](https://github.com/nckstwrt/NetherSX2-Turnip/releases) |
-| **PS1** | DuckStation | [Google Play DuckStation](https://play.google.com/store/apps/details?id=com.github.stenzek.duckstation) |
-| **Wii / GameCube** | Dolphin Official | [Dolphin Downloads](https://dolphin-emu.org/download/) |
-| **Nintendo 3DS** | AzaharPlus | [AzaharPlus Releases](https://github.com/AzaharPlus/AzaharPlus/releases) |
-| **Nintendo 3DS** | Citra MMJ | [Citra MMJ Releases](https://github.com/weihuoya/citra/releases) |
-| **Nintendo 3DS** | Mandarine | [Mandarine Releases](https://github.com/mandarine3ds/mandarine/releases) |
-| **Nintendo DS** | melonDS | [Google Play melonDS](https://play.google.com/store/apps/details?id=me.magnum.melonds) |
-| **Nintendo DS** | DraStic | [Google Play DraStic](https://play.google.com/store/apps/details/DraStic_DS_Emulator?id=com.dsemu.drastic) |
-| **Multi-system** | Lemuroid | [Google Play Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid) |
-| **Dreamcast** | Redream | [Google Play Redream](https://play.google.com/store/apps/details?id=io.recompiled.redream) |
-| **Sega Saturn** | Yaba Sanshiro 2 | [Google Play Yaba Sanshiro 2](https://play.google.com/store/apps/details?id=org.devmiyax.yabasanshioro2) |
-| **Nintendo 64** | M64Plus FZ | [Google Play M64Plus FZ](https://play.google.com/store/apps/details?id=org.mupen64plusae.v3.fzurita) |
-| **Symbian / N-Gage** | EKA2L1 | [EKA2L1 Releases](https://github.com/EKA2L1/EKA2L1/releases) |
+| **PS Vita** | Vita3K Plus | https://github.com/nckstwrt/Vita3K-Plus/releases |
+| **PSP** | PPSSPP | https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp |
+| **PS2** | AetherSX2 | https://www.mediafire.com/file/43816dsm3ozh4j0/13930-v1.5-3668.apk/file |
+| **PS2** | NetherSX2 Classic | https://github.com/Trixarian/NetherSX2-classic/releases |
+| **PS2** | NetherSX2 Patch | https://github.com/Trixarian/NetherSX2-patch/releases |
+| **PS2** | NetherSX2 Turnip | https://github.com/nckstwrt/NetherSX2-Turnip/releases |
+| **PS1** | DuckStation | https://play.google.com/store/apps/details?id=com.github.stenzek.duckstation |
+| **Wii / GameCube** | Dolphin Official | https://dolphin-emu.org/download/ |
+| **Nintendo 3DS** | AzaharPlus | https://github.com/AzaharPlus/AzaharPlus/releases |
+| **Nintendo 3DS** | Citra MMJ | https://github.com/weihuoya/citra/releases |
+| **Nintendo 3DS** | Mandarine | https://github.com/mandarine3ds/mandarine/releases |
+| **Nintendo DS** | melonDS | https://play.google.com/store/apps/details?id=me.magnum.melonds |
+| **Nintendo DS** | DraStic | https://play.google.com/store/apps/details/DraStic_DS_Emulator?id=com.dsemu.drastic |
+| **Multi-system** | Lemuroid | https://play.google.com/store/apps/details?id=com.swordfish.lemuroid |
+| **Dreamcast** | Redream | https://play.google.com/store/apps/details?id=io.recompiled.redream |
+| **Sega Saturn** | Yaba Sanshiro 2 | https://play.google.com/store/apps/details?id=org.devmiyax.yabasanshioro2 |
+| **Nintendo 64** | M64Plus FZ | https://play.google.com/store/apps/details?id=org.mupen64plusae.v3.fzurita |
+| **Symbian / N-Gage** | EKA2L1 | https://github.com/EKA2L1/EKA2L1/releases |
 
 ---
 
