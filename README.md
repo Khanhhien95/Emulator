@@ -196,6 +196,6 @@
 
 ## 🎮 Chúc mọi người chơi game vui vẻ!
 
-⭐ Nếu thấy danh sách hữu ích, hãy **Star Repository** để ủng hộ!
+⭐ Nguồn: https://www.facebook.com/share/g/1bjQoCkoag/ !
 
 </p>
