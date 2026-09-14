@@ -156,6 +156,16 @@
 
 ---
 
+### VITA 3K +
+
+🔗 https://github.com/nckstwrt/Vita3K-Plus/releases
+
+### lINK ROM DOWNLOAD NHANH
+
+🔗 https://retrogametalk.com/
+
+
+
 # 🕹️ Các giả lập khác
 
 | Hệ máy | Giả lập | Link |
