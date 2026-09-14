@@ -162,7 +162,7 @@
 
 ### lINK ROM DOWNLOAD NHANH
 
-🔗 https://retrogametalk.com/
+🔗 https://retrogametalk.com/repo
 
 
 
